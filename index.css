@@ -1,4 +1,18 @@
-#head {
-  font-style: italic;
-  color: blue;
+element.style {
+    margin: 0px;
+    background: #0e0e0e;
 }
+user/agent/stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+
+element.style {
+    -webkit-user-select: none;
+    margin: auto;
+    cursor: zoom-out;
+}
+img[Attributes Style] {
+    width: 1400px;
+    height: 1080px;
